@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR3k0042/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十一
+  hash: sha256:6fde423eff804002a73f9da4a96c88a4d581d1c7affa2bef6c291152bdc6238c
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3k0042_WYG_000-1a, image: WYG0952/WYG0952-0593a.png}
+body:
+  text: 名疑類書類提要臣等謹案名疑四卷明陳士元撰是書上自三皇下迄元代博採史傳及百家雜說凡古人姓名之異字及更名更字與同姓名者皆彚萃之其所徵引較之各姓氏書頗為詳備如洞神部載三皇姓名列仙傳稱介子推姓王名光之類皆指其謬又據史記佞幸傳辨朱建傳誤閎孺為閎籍孺據顔延之誄辨陶徴士本名淵明字元亮皆為確鑿然以司馬遷諱談為同謂談一音同以童烏為揚雄小字又謂雄本姓楊字訛為揚字之類訛誤者亦復不少又神仙鬼怪之名如吳剛姮娥豐隆屏翳神荼鬱壘等皆詳載之體例頗為冗雜又不著所出不盡可以徵信特其採托繁富頗有足資參證者固不妨存以備考焉乾隆四十六年閏五月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀名疑原序海宇之廣齊民林總不可勝計雖僻壤遐陬生同時者奚翅億萬數哉邃古之代書契未立莫之稽已三五以來史牒所載姓名無論賢愚或億萬數中僅存一二乃又傳録謬訛可慨也余讀史又博觀百家雜說凡古人姓名異同輒記手簡以備質問久之成帙用示孰童題曰名疑仲尼曰多聞闕疑余非多聞者也其不能闕疑也亦不免玩物喪志之誚也與隆慶己巳上元日陳士元書
+  hash: sha256:ddfce22d402aed325046eaa4106557492dba134e601fbe6529699a4462bab29a
+  markers:
+  - {type: page-break, offset: 277, content: '', id: KR3k0042_WYG_000-3a, image: WYG0952/WYG0952-0594c.png}
+metadata:
+  title: 名疑
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:31:57.925418'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3k0042/KR3k0042_000.txt
+hash: sha256:b0995d8061e5c5c78083860b5ef05cd419d8ee6e2650f14c43723572bbaf9ce3
